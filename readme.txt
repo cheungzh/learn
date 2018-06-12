@@ -2,6 +2,4 @@ this is a test
 second
 third
 new branch
-
-
-simple b
+simple is b
