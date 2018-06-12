@@ -3,3 +3,5 @@ second
 third
 new branch
 simple is b
+
+Stashed changes
